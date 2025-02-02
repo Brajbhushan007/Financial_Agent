@@ -1,0 +1,16 @@
+phidata
+groq
+python-dotenv
+yfinance
+duckduckgo-search 
+packaging 
+fastapi
+uvicorn
+newspaper3k
+pandas
+pdfplumber
+requests
+beautifulsoup4
+flask
+urllib3
+selenium
